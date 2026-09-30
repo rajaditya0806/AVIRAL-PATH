@@ -96,18 +96,6 @@ intelligent-dead-reckoning/
 
 ---
 
-## 🛠️ Quick Start Guide (Local Development)
-
-### Run the Web Dashboard
-```bash
-cd dashboard/frontend
-npm install
-npm run dev
-```
-Open `http://localhost:5173` to launch locally.
-
----
-
 ## 👥 Team — Aviral Path
 
 | Name | Role | GitHub |
